@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\e-book\\kitapatolyesi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|solutionrelative:kitapatolyesi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\e-book\\kitapatolyesi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|solutionrelative:kitapatolyesi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\e-book\\kitapatolyesi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|solutionrelative:kitapatolyesi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\e-book\\kitapatolyesi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|solutionrelative:kitapatolyesi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\e-book\\kitapatolyesi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|solutionrelative:kitapatolyesi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\e-book\\kitapatolyesi\\views\\product\\getproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|solutionrelative:kitapatolyesi\\views\\product\\getproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\e-book\\kitapatolyesi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|solutionrelative:kitapatolyesi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\e-book\\kitapatolyesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|solutionrelative:kitapatolyesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "KitapAtolyesi\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "KitapAtolyesi\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T21:40:42.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "KitapAtolyesi\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "KitapAtolyesi\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T21:40:38.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Views\\Product\\GetProducts.cshtml",
+              "RelativeDocumentMoniker": "KitapAtolyesi\\Views\\Product\\GetProducts.cshtml",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Views\\Product\\GetProducts.cshtml",
+              "RelativeToolTip": "KitapAtolyesi\\Views\\Product\\GetProducts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T21:24:04.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "KitapAtolyesi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "KitapAtolyesi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T21:23:28.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "KitapAtolyesi\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "KitapAtolyesi\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T21:22:25.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KitapAtolyesi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KitapAtolyesi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T21:22:19.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KitapAtolyesi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KitapAtolyesi\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:33:43.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Program.cs",
+              "RelativeDocumentMoniker": "KitapAtolyesi\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Program.cs",
+              "RelativeToolTip": "KitapAtolyesi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T19:30:17.419Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
