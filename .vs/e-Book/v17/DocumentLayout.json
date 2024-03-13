@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CDDFDE9A-6D72-47FF-984C-0D7D8B704087}|DataAccess\\DataAccess.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\e-book\\dataaccess\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDFDE9A-6D72-47FF-984C-0D7D8B704087}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D90057E-0CFA-41E6-8485-1A735EC4B1D4}|Entity\\Entity.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\e-book\\entity\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D90057E-0CFA-41E6-8485-1A735EC4B1D4}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB98C3A-8DA7-401C-8B22-3DDB8D0E5FA0}|Core\\Core.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\e-book\\core\\entities\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB98C3A-8DA7-401C-8B22-3DDB8D0E5FA0}|Core\\Core.csproj|solutionrelative:core\\entities\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB98C3A-8DA7-401C-8B22-3DDB8D0E5FA0}|Core\\Core.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\e-book\\core\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB98C3A-8DA7-401C-8B22-3DDB8D0E5FA0}|Core\\Core.csproj|solutionrelative:core\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB98C3A-8DA7-401C-8B22-3DDB8D0E5FA0}|Core\\Core.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\e-book\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCB98C3A-8DA7-401C-8B22-3DDB8D0E5FA0}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D90057E-0CFA-41E6-8485-1A735EC4B1D4}|Entity\\Entity.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\e-book\\entity\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D90057E-0CFA-41E6-8485-1A735EC4B1D4}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D90057E-0CFA-41E6-8485-1A735EC4B1D4}|Entity\\Entity.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\e-book\\entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D90057E-0CFA-41E6-8485-1A735EC4B1D4}|Entity\\Entity.csproj|solutionrelative:entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\e-book\\kitapatolyesi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{13F68EE2-8E8F-4BF0-9D16-08B53E50E052}|KitapAtolyesi\\KitapAtolyesi.csproj|solutionrelative:kitapatolyesi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -51,6 +79,94 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\DataAccess\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\DataAccess\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccess\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T20:08:02.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\Core\\Entities\\IEntityBase.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\IEntityBase.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\Core\\Entities\\IEntityBase.cs",
+              "RelativeToolTip": "Core\\Entities\\IEntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:12:59.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\Core\\Entities\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\Core\\Entities\\EntityBase.cs",
+              "RelativeToolTip": "Core\\Entities\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:02:56.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-11T21:02:25.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\Entity\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\Entity\\Entities\\Category.cs",
+              "RelativeToolTip": "Entity\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T20:56:37.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\Entity\\Entities\\Article.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\Article.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\Entity\\Entities\\Article.cs",
+              "RelativeToolTip": "Entity\\Entities\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T20:48:45.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entity.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\Entity\\Entity.csproj",
+              "RelativeDocumentMoniker": "Entity\\Entity.csproj",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\Entity\\Entity.csproj",
+              "RelativeToolTip": "Entity\\Entity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-11T20:48:17.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "KitapAtolyesi\\Views\\_ViewStart.cshtml",
@@ -58,12 +174,11 @@
               "RelativeToolTip": "KitapAtolyesi\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-09T21:40:42.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T21:40:42.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "KitapAtolyesi\\Views\\_ViewImports.cshtml",
@@ -75,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "GetProducts.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Views\\Product\\GetProducts.cshtml",
               "RelativeDocumentMoniker": "KitapAtolyesi\\Views\\Product\\GetProducts.cshtml",
@@ -87,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "KitapAtolyesi\\Controllers\\ProductController.cs",
@@ -99,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "KitapAtolyesi\\Views\\Home\\Privacy.cshtml",
@@ -111,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "KitapAtolyesi\\Views\\Home\\Index.cshtml",
@@ -123,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "KitapAtolyesi\\Controllers\\HomeController.cs",
@@ -135,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\e-Book\\KitapAtolyesi\\Program.cs",
               "RelativeDocumentMoniker": "KitapAtolyesi\\Program.cs",
